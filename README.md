@@ -26,19 +26,19 @@ ZVD前端开发规范
     建议使用 BEM  https://en.bem.info/methodology/
 
 
-Javascript
+# Javascript
 
     使用单引号
 
     语句不使用分号。除了行首是 `[, (, +, -, /` ，在前面添加分号
 
 
-ESlint
+# ESlint
 
     提交代码前需要处理提示警告
 
 
-调试代码
+# 调试代码
 
     提交代码前需要将调试代码去掉（比如 console.log）
 
